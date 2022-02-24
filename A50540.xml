@@ -1,0 +1,880 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The new-cured criple's caveat, or, England's duty for the miraculous mercy of the King's and kingdomes restauration in a sermon preached before the honourable society of Grays Inn, upon the 29. of May, our anniversary thanksgiving / by Rich. Meggott ...</title>
+            <author>Meggott, Richard, d. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50540</idno>
+            <idno type="STC">Wing M1618</idno>
+            <idno type="STC">ESTC R9894</idno>
+            <idno type="EEBO-CITATION">12926188</idno>
+            <idno type="OCLC">ocm 12926188</idno>
+            <idno type="VID">95529</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50540)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95529)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 989:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The new-cured criple's caveat, or, England's duty for the miraculous mercy of the King's and kingdomes restauration in a sermon preached before the honourable society of Grays Inn, upon the 29. of May, our anniversary thanksgiving / by Rich. Meggott ...</title>
+                  <author>Meggott, Richard, d. 1692.</author>
+               </titleStmt>
+               <extent>[6], 39 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.M. for Peter Dring ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-12</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:95529:1"/>
+            <pb facs="tcp:95529:1" rendition="simple:additions"/>
+            <pb facs="tcp:95529:2"/>
+            <opener>
+               <dateline>
+                  <date>Junii 27 mo. 1662.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>PErlegi concionem hanc cui titulus, <hi>The New Criple's Caveat,</hi> &amp;c. quam dig. nam judico quae typis mandetur,</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Robertus Pory</hi> S. T. P. Reverendiſſimo in Chriſto Patri ac Domino Domino <hi>Guilielmo</hi> Archiepiſcopo Cantuar. Sacel. Domeſticus.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <hi>The frequent falſe pointings even to the diſturbing of the ſenſe can not here be enumerated, the ſlips of the Preſſe in Let<g ref="char:EOLhyphen"/>ters mend thus,</hi>
+            </p>
+            <p>Page 10. l. 19. dele <hi>that,</hi> p. 11. l. 32. <hi>ſupple in,</hi> p. 17. l. 22. lege <hi>im<g ref="char:EOLhyphen"/>penitence,</hi> p. 18. l. 7. lege
+<hi>pietatem,</hi> p. 20. l. 3. <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, p. 20. l. 4. <hi>chaſtiſed,</hi> p. 23. l. ult. <hi>purifie,</hi> p. 24. l.
+18. <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, p. 26. l. 6.
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, p. 31. l. 5: dele <hi>s,</hi> p.
+32. l. 19. <hi>pourtraiture,</hi> p. 33. l. 3. <hi>Eutopian,</hi> p. 37. l. 5. dele <hi>but,</hi> p. 37. l. 8. dele <hi>by,</hi> p. 30. l. 14.
+<hi>nonis.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:95529:2" rendition="simple:additions"/>
+            <p>The New-Cured Criple's Caveat: OR, <hi>England</hi>'s Duty for the Miracu<g ref="char:EOLhyphen"/>lous Mercy of the King's and King<g ref="char:EOLhyphen"/>domes Reſtauration. IN A Sermon Preached before the Honourable So<g ref="char:EOLhyphen"/>ciety of <hi>Grays Inn,</hi> upon the 29. of
+<hi>May,</hi> our Anniverſary Thanksgiving.</p>
+            <p>By <hi>Rich, Meggott,</hi> M. A. and Rector of St. <hi>Olaves South-warke.</hi>
+            </p>
+            <q>
+               <bibl>Hoſ. 3.4,5.</bibl>
+               <p>
+                  <hi>For the Children of Iſrael ſhall abide many dayes without a King, and without a Prince, and without a ſacrifice, &amp;c. Afterward ſhall the children of Iſrael return and ſeek the Lord their God, and
+<hi>Da<g ref="char:EOLhyphen"/>vid</hi> their King, and ſhall fear the Lord, and his goodneſs in the latter dayes.</hi>
+               </p>
+            </q>
+            <q>
+               <p>
+                  <hi>Ingratitudo inimica eſt animae, exinanitio meritorum, virtutum diſpeeſio, bene<g ref="char:EOLhyphen"/>ficiorum perditio.</hi>
+                  <bibl>St. <hi>Bernardus</hi> Serm. 51. in Cant.</bibl>
+               </p> 
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. M.</hi> for <hi>Peter Dring,</hi> at the ſigne of the <hi>Sun,</hi> next doore to the <hi>Roſe Tavern,</hi> in the <hi>Poultrey</hi> 1662.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:95529:3" rendition="simple:additions"/>
+            <pb facs="tcp:95529:3"/>
+            <head>To the Right Reverend Father in God, <hi>George</hi> by Divine Providence Lord Biſhop of <hi>WINCHESTER.</hi>
+            </head>
+            <opener>
+               <salute>Right Reverend and Honourable,</salute>
+            </opener>
+            <p>YOu may eaſily excuſe me for uſing your Name upon this, when you think what ſtead it ſtood me in upon another occa<g ref="char:EOLhyphen"/>ſion. I were very ſtupid, if I did not know the worth of it; and then it is no wonder, if I am loth to part with it. This (my Lord) made me finde favour in the eyes of a King; and then how can it but make me finde acceptance a<g ref="char:EOLhyphen"/>mong (unleſs it be, becauſe they be) His leſs intelligent Subjects. And if the Goſpell it ſelf, that is <pb facs="tcp:95529:4"/>above all humane Patronage, be Dedicated to the moſt Excellent <hi>Theophilus;</hi> then ſurely what is of ſo inferiour a nature as this diſ<g ref="char:EOLhyphen"/>courſe, had need look out for one that is Venerable indeed to coun<g ref="char:EOLhyphen"/>tenance it.</p>
+            <p>But this is not all the reaſon. The truth is, I was too big with a ſenſe of your undeſerved kind<g ref="char:EOLhyphen"/>neſſe to go long undelivered; and ſtill finding a word hindering ſur<g ref="char:EOLhyphen"/>priſe upon me when I was before you, I pitched upon this way of thanking you, for though ſuch E<g ref="char:EOLhyphen"/>piſtles uſe to come out for the pie<g ref="char:EOLhyphen"/>ces ſake that followeth; I had al<g ref="char:EOLhyphen"/>moſt ſaid, this piece that follow<g ref="char:EOLhyphen"/>eth had not come out but for the Epiſtles ſake. This I thought once to ſtuffe with the deep re<g ref="char:EOLhyphen"/>ſentments <pb facs="tcp:95529:4"/>I have of what you have done for me, but that is ſo trivial and ordinary a returne; I looked upon my ſelf as bound to ſcorne it, and endeavour ſome<g ref="char:EOLhyphen"/>thing greater.</p>
+            <p>I well perceive by thoſe truly Epiſcopal Memento's you gave me, what will be more acceptable to you, <hi>viz.</hi> to take heed to my ſelf and to the Doctrine in the place with which my Soveraign upon your recommending, hath entruſted me. And therefore up<g ref="char:EOLhyphen"/>on this occaſion, ſhall venture be<g ref="char:EOLhyphen"/>fore the world to tell you, I did not more willingly with my Pen ſubſcribe the Churches Ar<g ref="char:EOLhyphen"/>ticles before, than I ſhall endea<g ref="char:EOLhyphen"/>vour with my paines, to tran<g ref="char:EOLhyphen"/>ſcribe my Dioceſans charge after <pb facs="tcp:95529:5"/>my inſtitution, that the ſoules of the people may not be ſtarved on deceived, my Mother the Church deſpiſed or ſcandalized, your Lordſhips condeſcending aſ<g ref="char:EOLhyphen"/>ſiſtance cenſured or repented of.</p>
+            <p>
+               <hi>I ſhall onely add my hearty and conſtant prayers, that your light may be long burning and ſhining in this crooked and per<g ref="char:EOLhyphen"/>verſe Generation; and ceaſe, though not to thank, to trouble you,</hi>
+            </p>
+            <closer>
+               <signed>Your Lordſhips bounden in the ſtricteſt tyes of Duty and Gratitude RICHARD MEGGOTT.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:95529:5"/>
+            <head>THE NEW-CVRED CRIPLE'S Caveat.</head>
+            <epigraph>
+               <q>
+                  <bibl>John the fifth, latter part of the 14th. verſe.</bibl>
+                  <p>
+                     <hi>Behold, thou art made whole: ſin no more, leaſt a worſe thing come unto thee.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">P</seg>Hyſitians meet not with more <hi>diſeaſes in the body,</hi> than Divines do in the <hi>ſoul of man.</hi> Are their Patients troubled with <hi>burning feavours?</hi> ours are with <hi>boyling luſts</hi> too: have theirs the <hi>torturing ſtone?</hi> ours have <hi>hardneſſe of heart:</hi> are theirs incident to the <pb n="2" facs="tcp:95529:6"/>
+               <hi>Falling ſickneſſe?</hi> Alas! ſo are ours to <hi>fowle apoſtacy.</hi> In a word, have theirs <hi>Conſumptions?</hi> ours have <hi>envy:</hi> have theirs the <hi>Tympany?</hi> ours have <hi>Pride:</hi> are theirs ſubject to
+<hi>death?</hi> ours are to <hi>damning.</hi> Hence it is that as our bleſſed Saviour is ſtyled by St. <hi>Peter</hi> the <hi>Biſhop of our ſouls,</hi> (1 <hi>Pet.</hi> 2. and the laſt) ſo he cal<g ref="char:EOLhyphen"/>leth himſelf the <hi>Phyſitian</hi> (<hi>Mat.</hi> 9.12) A Phyſitian indeed he was, according to <hi>Socrates</hi>'s raiſed wiſh,
+<note place="margin">
+                  <hi>Plato Hippias.</hi>
+               </note>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that cured both fleſh and Spirit. I ſhall not lead you out of the way for an inſtance, you have a lively one in the Text before you. In the ninth verſe of this Chapter he had healed a Criple of his lameneſſe,
+<note place="margin">
+                  <hi>Beda.</hi>
+               </note> 
+               <hi>immediately the man was made whole, and took up his bed and walked: &amp; qui foris ab infirmitate ipſe etiam intus ſalvavit à ſcelere,</hi> ſaith venerable
+<hi>Bede</hi> upon the place; as he had delivered him from his
+<hi>infirmity,</hi> he goeth to purge him from his iniquity: you have the ingredients he uſeth in it, in the words I have now read,
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Behold thou art made whole, ſin no, more leaſt a worſe thing come unto thee.</hi>
+            </p>
+            <p>The words were <hi>calculated</hi> (you ſee) for
+<hi>another,</hi> but may very well ſerve for our <hi>Meridian:</hi> they were ſpoken many <hi>hundred years a goe,</hi> yet are very perti<g ref="char:EOLhyphen"/>nent to the
+<hi>buſineſſe of this day.</hi> They were delivered at firſt to a man
+<hi>newly recovered,</hi> and what fitter to be repeated to a people <hi>lately delivered?</hi> He Chriſt pro<g ref="char:EOLhyphen"/>nounced them to, was one that had been decripit for <hi>eight and thirty years;</hi> and you I am now rehearſing them to, have you not for <hi>eighteen years</hi> been more than almoſt in as <hi>lame a poſture?</hi> Our Saviour that by his power had reſtored this man from his <hi>impotence</hi> before, endeavoureth by his councell to draw him to
+<hi>penitence</hi> here; and you that have had ſuch unex<g ref="char:EOLhyphen"/>pected mercies of late conferred on you; what fitter addreſſe can I now make to you than with the ſame Memento, to preſſe you to your duties, <hi>behold you are
+<pb n="3" facs="tcp:95529:6"/>made whole, ſin no more,</hi> &amp;c.</p>
+            <p>
+               <note place="margin">
+                  <hi>Diviſ.</hi>
+               </note>In which words, you may be pleaſed plainly to take notice;
+<list>
+                  <item>1. Of an <hi>intimation</hi> of a ſin that might be com<g ref="char:EOLhyphen"/>mitted.</item>
+                  <item> 2. The <hi>commemoration</hi> of a mercy that had been re<g ref="char:EOLhyphen"/>ceived.</item>
+                  <item> 3. The <hi>Admonition</hi> of a duty that was to be per<g ref="char:EOLhyphen"/>formed.</item>
+                  <item> 4. A <hi>Commination</hi> of fury that otherwiſe would be inflicted.</item>
+               </list>
+               <list>
+                  <item>The intimation is <hi>pious.</hi>
+                  </item>
+                  <item> The Commemoration <hi>gracious.</hi>
+                  </item>
+                  <item> The Admonition <hi>ſerious.</hi>
+                  </item>
+                  <item> The Commination <hi>grievous.</hi>
+                  </item>
+               </list>
+               <list>
+                  <item>The intimation of the ſin ſuſpected, you have in that word <hi>behold.</hi>
+                  </item>
+                  <item> The Commemoration of the mercy received in thoſe words,
+<hi>thou art made whole.</hi>
+                  </item>
+                  <item> The Admonition of the duty to be performed in thoſe,
+<hi>ſin no more.</hi>
+                  </item>
+                  <item> The Commination of the fury that might be in<g ref="char:EOLhyphen"/>flicted in thoſe, <hi>leaſt a worſe thing come unto thee.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Theſe are the naturall parts of the Text; of each whereof
+<hi>diſtinctly</hi> and <hi>doubly:</hi> Firſt in their
+<hi>ab<g ref="char:EOLhyphen"/>ſolute</hi> conſideration as they lie in the <hi>Text,</hi> and then in their <hi>relative,</hi> as they may be a <hi>looking glaſs for us.</hi> I begin with the <hi>abſolute conſideration</hi> of the text, and therein firſt with the firſt particular.</p>
+            <p>
+               <note place="margin">1. Part.</note>The <hi>intimation of the ſin,</hi> the ſin of ingratitude, that he might run into, now he was upon his legs again. <hi>Behold! Behold thou art made whole.</hi>
+            </p>
+            <p>
+               <hi>Behold!</hi> Is this the firſt <hi>Salutation?</hi> every thing would put him in minde of this: How is it poſſible he ſhould forget the miſery of eight and thirty years in ſo ſhort a ſpace as eight and thirty hours? What is he as lame in his memory as he was in his limbs, that
+<pb n="4" facs="tcp:95529:7"/>this is ſo ſoon repeated to him?</p>
+            <p>Saint <hi>Chryſoſtome</hi> hath appoſitely anſwered the queſtion,
+<note place="margin">St. <hi>Chryſoſt. in locum.</hi>
+               </note>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> &amp;c. It was not ſpoken for him alone, but upon this occaſion, written for our inſtruction, to teach us that every <hi>mer<g ref="char:EOLhyphen"/>cy</hi> ſhould have its <hi>Ecce:</hi> No bleſſing ſhould eſcape our regiſtring. <hi>Lorinus</hi> hath wittily noted,
+<note place="margin">
+                  <hi>Lorinus in Pſal.</hi>
+               </note> 
+               <hi>frater Ephraim qui fructificantem ſignificat, Manaſſes eſt qui oblivioſum, qua<g ref="char:EOLhyphen"/>ſi oriatur ex beneficiis oblivio;</hi> that <hi>Manaſſes</hi> which ſig<g ref="char:EOLhyphen"/>nifies forgetfulneſſe, is the brother of <hi>Ephraim</hi> which ſignifieth <hi>fruitfulneſse:</hi> and the <hi>Eremite</hi> that telleth his <hi>Nicholaus</hi> of the three <hi>Myſticall Monſters</hi> which would alwayes be <hi>aſſaulting</hi> him,
+<note place="margin">
+                  <hi>Bibl. patrum tom.</hi> 5.</note> maketh this to march in the front <hi>(primam nomino oblivionem)</hi> an <hi>unthankfull heedleſneſſe</hi> of what God doth for us: to prevent this here
+<hi>Cynthius aurem vellit,</hi> he hath this ſeaſonable item,
+<hi>Behold;</hi> be not ſtupid, regardleſſe, inſenſible, I expect you ſhould be mindful off, affected with, thank<g ref="char:EOLhyphen"/>ful for this unexpected mercy that is befaln you. And well may he call for this from all of us, when he hath ſhowred down bleſſings upon us to <hi>behold</hi> them: this is,
+<list>
+                  <item>A Natural.</item>
+                  <item>An Aequal.</item>
+                  <item>A Facile returne to him.</item>
+               </list> Firſt, 'Tis natural
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as <hi>Aelian</hi> in another caſe:
+<note place="margin">
+                  <hi>Aelian. var. hiſt. l.</hi> 6.</note> there needeth no <hi>Art of memory,</hi> no <hi>bond of Penalty,</hi> no <hi>Act of Parliament,</hi> one would think for this: the very Beaſts will do it.
+<hi>The Oxe knoweth his owner, and the Aſſe his maſter Crib,</hi> and ſhall we come ſhort of theſe?
+<note n="a" place="margin">
+                  <hi>Agellius l.</hi> 5. <hi>c.</hi>
+14.</note> 
+               <hi>Agellius</hi>'s <hi>Lyon</hi> that three years after
+<hi>fawned</hi> upon the <hi>Slave</hi> that <hi>cured</hi> him;
+<note n="b" place="margin">
+                  <hi>Lilius Gical<g ref="char:EOLhyphen"/>dus.</hi>
+               </note>
+               <hi>Democritus</hi>'s <hi>Dragon</hi> that ſuccoured <hi>Thoas</hi> who
+<hi>fed</hi> him;
+<note n="c" place="margin">
+                  <hi>Sophronus in prato. ſpirituali.</hi>
+               </note> 
+               <hi>Philarchus</hi>'s <hi>Aſpe</hi> that killed her young one for biting the childe of the Ae<g ref="char:EOLhyphen"/>gyptian <pb n="5" facs="tcp:95529:7"/>who
+<hi>bred</hi> her, were enough to riſe up in judgment againſt us and condemn us. Beſides,</p>
+            <p>Secondly, It is equall. We expect that others ſhould take notice of the kindneſſe we ſhow, and the courteſies we doe for them; and is it not fit (think you) we ſhould take notice of thoſe which our God conferreth on us? <hi>Canan</hi> thinketh no name ſo fit for his ſon as
+<hi>Mahalaleel, qui quoties filium nominaret, toties, quaſi dicecet Hallulujah</hi> ſaid a learned interpreter,
+<note n="d" place="margin">
+                  <hi>Lapide in lo<g ref="char:EOLhyphen"/>cum.</hi>
+               </note> be<g ref="char:EOLhyphen"/>cauſe as often as he named him, he would be minded to bleſs God for him. The Heathen had learned ſo much divinity, when they had eſcaped any danger, recovered any loſs, gained any victory, <hi>pictis tabellis in templis deorum appenſis, &amp;c.</hi> Saith
+<note n="e" place="margin">
+                  <hi>Mercurialis de regymneſt.</hi>
+               </note> 
+               <hi>Mercurialis de regym<g ref="char:EOLhyphen"/>nesticâ,</hi> to paint the ſtory of it, and hang it up for perpetuall record in the Temples where they wor<g ref="char:EOLhyphen"/>ſhipped. Good <hi>Hezekiah</hi> is recovered from his ſick<g ref="char:EOLhyphen"/>neſſe, but this wonderful deliverance from <hi>death</hi> muſt not
+<hi>dy</hi> and be <hi>buried</hi> in oblivion; himſelf turneth Hi<g ref="char:EOLhyphen"/>ſtoriographer, that as the <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> had their <hi>tabulae poſt naufragium,</hi> ſo he hath his <hi>ſcriptura poſt valetudinem. Iſaiah</hi> 38.9. you ſee it is but equall in the thoughts of all men; yea which may ſway more.</p>
+            <p>Thirdly, It is <hi>facile.</hi> Had it been ſome great thing, ſhould we not have done it? But when he ſtoopeth ſo, low who would offer to deny him? If we could have what we want from men at this <hi>price,</hi> what a <hi>peniworth</hi> ſhould we reckon it? No, there the <hi>Market riſeth.</hi> The <hi>Phyſitian</hi> when he viſiteth his Patient, is ſcarce contented if he have nothing but thanks from him; the <hi>Lawyer</hi> ſcarce heartily pleadeth a Cauſe where the <hi>Client</hi> feeth him with a
+<hi>handfull of thanks</hi> only, the <hi>Tradeſ-man</hi> will not part with his <hi>Commo<g ref="char:EOLhyphen"/>dities</hi> where he meeteth with a chapman that bid<g ref="char:EOLhyphen"/>deth nothing but thanks; and yet this is all that the Almighty asketh, when he giveth us all our bleſ<g ref="char:EOLhyphen"/>ſings. Bleſſed God how <hi>Cheap</hi> thou art! O how well
+<pb n="6" facs="tcp:95529:8"/>thou <hi>uſeſt</hi> us! ſeeing he is ſo
+<hi>Gracious</hi> to aske no more, let not us be ſo <hi>ungracious</hi> as to offer leſſe: where we are ſo much <hi>beholding?</hi> how can we but behold, the duty the Text called for.</p>
+            <p>
+               <note place="margin">
+                  <hi>Appl.</hi>
+               </note>
+               <hi>And this is that we are</hi> this day <hi>met together for:</hi> The A<g ref="char:EOLhyphen"/>poſtle telleth us in the
+2. of <hi>Tim.</hi> 3.2. that in the laſt dayes as ſome would be
+<hi>traytors,</hi> ſome <hi>heady,</hi> ſome <hi>high-minded,</hi> ſome diſobedient to <hi>Parents;</hi> ſo ſome would be unthankfull; O (my Brethren!) you that abo<g ref="char:EOLhyphen"/>minate the <hi>former vices</hi> for Gods ſake, take heed of the latter. And that we may not mock God, nor de<g ref="char:EOLhyphen"/>ceive our ſelves, in thinking we do this duty, when we omit it, let us mingle our thanks-giving with theſe three <hi>ingredients</hi> to perfume and ſweeten it.</p>
+            <p>Let it be
+<list>
+                  <item>Univerſal.</item>
+                  <item>Proportionable.</item>
+                  <item>Suitable.</item>
+               </list>
+            </p>
+            <p>Firſt, be ſure it be univerſal, for all that God doth for us. Of courſe ſolemnly before <hi>meat</hi> and after we <hi>give God thanks;</hi> but (alas!) how many thouſands of other mercies eſcape us with no obſervance? Here I may allude to that paſſage of our Saviour concerning the Leapers (<hi>Luke</hi> 17.17.) <hi>Were there not ten clean<g ref="char:EOLhyphen"/>ſed? but where are the nine?</hi> Have not you <hi>millions of mer<g ref="char:EOLhyphen"/>cies</hi> and bleſſings? what is become of them, that there are not found for which men <hi>give glory to God ſave this one?</hi> How
+<hi>many</hi> have we that are much more worth than a <hi>meales meat?</hi> Doeſt thou not priſe thy <hi>Health</hi> higher? Thy <hi>Eſtate</hi> higher? Thy <hi>Liberty</hi> higher? Thy <hi>Peace,</hi> higher? Thy
+<hi>Relations</hi> higher? Where, O where is our thankfullneſſe for theſe? Every one deſerveth an <hi>Ecce,</hi> a behold to be ſet on them; let it be univerſall. And then,</p>
+            <p>Secondly let it be <hi>proportionable:</hi> let not ſlight praiſes ſerve for a <hi>ſolid</hi> and ſubſtantiall mercy.
+<pb n="7" facs="tcp:95529:8"/>The <hi>Phariſees ſhort come</hi> of, is that which moſt men con<g ref="char:EOLhyphen"/>tent themſelves with (<hi>Luke</hi> 18.11.) <hi>God, I thank thee:</hi> This is all we are willing to part with. The Latines happily phraſe this duty <hi>gratias agere,</hi> to <hi>do thanks:</hi> here we muſt act and act fervently and vigorouſly. <hi>Solomon,</hi> as a high upbrading, ſendeth the ſluggard to the Ant to learn diligence; whether ſhall I ſend you? Truly, I may to the <hi>Caterpillar, Lice,</hi> and
+<hi>Locuſt,</hi> the Peſtilent Vermine that of late was crept into every place (like the Plagues of Aegypt, <hi>not ſparing the Kings Bed-chamber</hi>) and over-run the Kingdomes; look up<g ref="char:EOLhyphen"/>on <hi>them</hi> in the day of their <hi>uſurpation,</hi> 'tis eaſy to re<g ref="char:EOLhyphen"/>member how they defiled the <hi>Holy places</hi> with their <hi>aſſemblings,</hi> commanded unwelcome dayes to be <hi>Cele<g ref="char:EOLhyphen"/>brated,</hi> drawled out audacious
+<hi>Hallelujahs</hi> to heaven, for every <hi>proſperous villany.</hi> Did they dare to doe this for <hi>ruining</hi> three Kingdomes? and ſhall we dare to do otherwiſe for the <hi>preſerving</hi> them? Did they in their way ſeem to give God thanks (I annually) for <hi>over<g ref="char:EOLhyphen"/>throwing a King!</hi> and ſhall not we for the <hi>reſtoring him?</hi> Did they proclaim
+<hi>thanksgiving</hi> for <hi>waſting a Church,</hi> and ſhall not we for
+<hi>ſettling</hi> it,
+<q>
+                  <l>
+                     <hi>—pudet haec opprobia nobis</hi>
+                  </l>
+                  <l>
+                     <hi>Vel dici potuiſſe, &amp;c.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>3. Let it be ſuitable thanks; thanks fit for us to give, and God to receive, ſerious, ſincere and ſpiri<g ref="char:EOLhyphen"/>tuall. It is the Greek Fathers note upon him in the Text; Jeſus findeth him in the Temple,
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>&amp;c.</hi> He was in a proper place for a thankful man to be in, not in the <hi>Market,</hi> not in the <hi>Court,</hi> not in the <hi>Field,</hi> but in the <hi>Temple:</hi> O how many are there among us that are <hi>glad,</hi> who doe not give
+<hi>thanks!</hi> glad of this dayes work (the redemption that God hath wrought for our Iſrael, in turning again our captivi<g ref="char:EOLhyphen"/>ty) who except the miſerably infatuated or intereſt<g ref="char:EOLhyphen"/>ed are not? But (O!) how ſadly do we expreſſe it! You may finde them in the <hi>Taverne</hi> drinking, in the
+<pb n="8" facs="tcp:95529:9"/>
+               <hi>Parlour</hi> feaſting, in the <hi>Theatre</hi> gazing; but how few, how few comparatively, in the <hi>Cloſet,</hi> or with him in the Text, <hi>in the Temple</hi> praiſing and glorifying the great and Gracious Author of it? God hath given us (my beloved) that which <hi>we would have.</hi> O let us now give him that which <hi>he would have.</hi> The greatneſſe of the mercy every way deſerveth it; come, let us not give thanks <hi>to the halves;</hi> we are <hi>made whole,</hi> which bringeth me to,</p>
+            <p>
+               <note place="margin">2. <hi>Par.</hi>
+               </note>The ſecond Particular of the Text, <hi>from the intima<g ref="char:EOLhyphen"/>tion of the ſin,</hi> we are apt to run into
+<hi>ingratitude and un<g ref="char:EOLhyphen"/>thankfulneſſe,</hi> to the <hi>Commemoration</hi> of the benefit which hath been received, <hi>Thou art made whole.</hi>
+            </p>
+            <p>Thou? Who? <hi>Thou</hi> who wert <hi>eight and thirty years decrepit, Thou</hi> who haſt layn ſo <hi>long at the Poole, Thou</hi> who wert ſo <hi>unlikely ever to recover, Thou</hi> art made whole. <hi>Augetur admiratio ex pertinaciâ morbi,</hi> ſaith Judi<g ref="char:EOLhyphen"/>cious <hi>Grotius;</hi>
+               <note place="margin">
+                  <hi>Grotious in ver.</hi> 5.</note> the
+<hi>inveterateneſs</hi> of the diſtemper ſhoweth the
+<hi>miraculouſneſſe</hi> of the cure.)</p>
+            <p>
+               <hi>Righteous art thou (deareſt Jeſus!) when we plead with thee; yet let us talke with thee of thy judgments. Seeing thou didſt intend to heale this poor man at laſt, why didſt not do it before? Thou haſt told us, Thou doſt not willingly grieve; this would make as if thou didſt not willingly eaſe the Children of men: we often read in thy word, that thou art ſlow to anger, and ſhall we finde thee in the ſame word ſlow to mercy?</hi>
+            </p>
+            <p>
+               <hi>Sic viſum est ſuperis.</hi> He could as eaſily have healed him at the firſt; but his will was otherwiſe: That of the
+<hi>Tragaedian</hi> is true of all his proceedings towards men:
+<q>
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.<note place="margin">
+                     <hi>Euripides.</hi>
+                  </note>
+               </q>
+            </p>
+            <p>As he many times keepeth ſilence at the wickeds ſins, and doth not puniſh them; ſo doth he at his peoples ſorrows and doth not redreſſe them. He is many times long in beſtowing that mercy, which he doth intend to beſtow <hi>at laſt.</hi> He intended to deliver
+<pb n="9" facs="tcp:95529:9"/>his people out of the
+<note n="a" place="margin">
+                  <hi>Exod.</hi> 12.40</note> 
+               <hi>Bondage of Aegypt,</hi> yet you know he ſtayed <hi>foure hundred and thirty years.</hi> Firſt, he did determine to <hi>give them a
+<note n="b" place="margin">1 <hi>Sam.</hi> 16.13.</note> King</hi> after his own heart, but they ſtay <hi>five hundred and odd years firſt.</hi> He re<g ref="char:EOLhyphen"/>ſolved to bring <hi>them out of
+<note n="c" place="margin">
+                     <hi>Jer.</hi> 25.12.</note> Babylon,</hi> but they ſtay there <hi>threeſcore and ten year firſt.</hi> It appeareth he in<g ref="char:EOLhyphen"/>tended to deliver <hi>England</hi> from the violence <hi>and op<g ref="char:EOLhyphen"/>preſſion of them that Raged rather than Reigned over</hi> Us, but you know he ſtayed ſome <hi>tedious years firſt.</hi> But all this amounteth to no more than that he doth ſo ſtill we may wonder. <hi>Bleſſed Lord! Thou haſt told us, we
+<note n="d" place="margin">
+                     <hi>Pro.</hi> 3.28.</note> muſt not ſay to our neighbour, Go and come again, and to morrow I will give, when we have it by us; and what wilt thou ſay ſo to thy Children?
+<note n="e" place="margin">
+                     <hi>Judg.</hi> 5.28.</note> Why is thy charriot ſo long in comming? why tarry the wheeles of thy purpoſed mercy? If he that giveth quickly, giveth doubly; then he that giveth ſlowly will be ſcarce accounted to give at all.</hi> But his <hi>wayes</hi> are not as
+<hi>our wayes;</hi> his wiſdome and goodneſſe are both ſeen in theſe delayings.</p>
+            <p>Firſt, to make us the more <hi>earneſt for the bleſſing,</hi> and ſet the higher rate upon it. It was once (I read) a cu<g ref="char:EOLhyphen"/>ſtome among the <hi>Perſians</hi> when their Emperour dyed, to continue
+<hi>three dayes</hi> without any Governour at all, that there being no
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>no heire of reſtraint,</hi> as the
+<note n="f" place="margin">
+                  <hi>Judges</hi> 18.7</note> Holy Ghoſt hath ſtiled the <hi>Magistrate,</hi> but every man doing what was good in his own eyes, the tyred <hi>people might with one conſent</hi> and lip the more
+<hi>paſſionately welcome the Prince</hi> that did ſucceed him.</p>
+            <p>Such a method the Almighty maketh uſe of, to make us <hi>faſt for ſome time</hi> from a mercy that we <hi>may have the better ſtomach</hi> to it next time it is ſet before us. The wiſe man telleth us,
+<note place="margin">
+                  <hi>Pro.</hi> 27.7.</note> 
+               <hi>The full ſoule loatheth the Honey comb;</hi> we have ſadly ſeen the truth of it, when a
+<hi>ſweet natured</hi> Prince, and <hi>ſweet tempered</hi> laws could not (they had ſo much of them) be brooked any longer or got down with men; but when the devouring <hi>voider</hi> 
+               <pb n="10" facs="tcp:95529:10" rendition="simple:additions"/>had took away theſe from the <hi>table,</hi> though the <hi>But<g ref="char:EOLhyphen"/>chers, Cooks and Scullions</hi> of the new or rather no mo<g ref="char:EOLhyphen"/>del'd State, were ſtill ſerving up <hi>one Hot-potch</hi> or ano<g ref="char:EOLhyphen"/>ther to ſtop the mouths of the people; how quickly did they <hi>ſpit out</hi> that <hi>traſh and trumpery,</hi> it ſerving on<g ref="char:EOLhyphen"/>ly for <hi>ſowre ſauce</hi> to procure them a <hi>freſh appetite</hi> to their wholeſome <hi>old proviſions;</hi> and that is one end of God in not <hi>preſent healing</hi> of our diſtempers, and ſend<g ref="char:EOLhyphen"/>ing us our bleſſings as <hi>ſoon as we</hi> miſſe them, that we may have the more mind to them.</p>
+            <p>2ly. Another reaſon may be to <hi>manifeſt his power, the more Chronick diſeaſes</hi> are <hi>hard to cure,</hi> when as they that are
+<hi>taken</hi> at firſt are <hi>ſoon helped;</hi> tis eaſie to pluck up a
+<hi>new ſet ſlip;</hi> but how faſt doth the <hi>grown Tree</hi> ſtand?
+
+<q>
+                  <l>
+                     <hi>Tunc poterat manibus ſummâ tellure revelli;</hi>
+                  </l>
+                  <l>
+                     <hi>Nunc ſtat in immenſum viribus aucta ſuis.</hi>
+                     <note place="margin">
+                        <hi>Ovid de rem. Am.</hi>
+                     </note>
+                  </l>
+               </q> Now God delighteth to act ſo as himſelf may have <hi>moſt glory;</hi> then to <hi>do</hi> things when they appear moſt <hi>difficult.</hi> He that will ſtay while probabilities <hi>vaniſh,</hi> hopes <hi>ſink,</hi> things look
+<hi>deſperate,</hi> and then <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, himſelf will appear <hi>from above,</hi> when none can come <hi>in for partners,</hi> or <hi>claim a ſhare</hi> with him;
+<note place="margin">
+                  <hi>Iſaiah.</hi> 63.5.</note> 
+               <hi>He will look on while there is none to help; hold off while there is none to uphold, and then, then ſhall his own arm bring Sal<g ref="char:EOLhyphen"/>vation. Gideon</hi> hath 32000. men to fight with, but they are <hi>too many;</hi>
+               <note place="margin">
+                  <hi>Judg.</hi> 7.3.4.</note> they are reduced to ten thouſand; they are too many ſtill; they muſt be reduced to three hundred, a <hi>petty inconſiderable company,</hi> (conſidering their enemies they had to deal with) and <hi>then they ſhall</hi> deliver.
+<hi>England</hi> had an Army, but then we ſhall not be delivered; then it would have been attribu<g ref="char:EOLhyphen"/>ted <hi>to their ſtrength.</hi> God ſuffereth
+<hi>them to be routed, and vanquiſhed;</hi> yet the <hi>Loyall</hi> ones
+<hi>had eſtates,</hi> but <hi>then</hi> we ſhall not be delivered; then it would have been thought it was <hi>done by their bribes and money: God ſuffer<g ref="char:EOLhyphen"/>ed them to be ſequeſtred and decimated.</hi> Yet there were remaining <hi>wiſe men and Councellors,</hi> but <hi>then</hi> we ſhall
+<pb n="11" facs="tcp:95529:10" rendition="simple:additions"/>not be delivered; then it would have been ſaid, it was <hi>their policy and contrivance.</hi> God ſuffereth many of them to be
+<hi>taken away and murdered;</hi> and when there was no likelihood, when
+<hi>men</hi> could not doe it, then he commeth down to viſite us. And</p>
+            <p>3ly. And Laſtly; He ſtayeth, that we <hi>may be the fit<g ref="char:EOLhyphen"/>ter for it.</hi> Many times a mercy is <hi>ready for us,</hi> and God
+<hi>with-holdeth it,</hi> becauſe <hi>we be not ready for the mercy:</hi> As he will ſhew his <hi>power in effecting it;</hi> ſo he will ſhow his
+<hi>wiſdome in timing it.</hi> He could have brought <hi>Iſrael</hi> out of
+<hi>Aegypt</hi> with <hi>eleven dayes</hi> eaſy travelling; but he ſpin<g ref="char:EOLhyphen"/>neth out <hi>forty tedious</hi> years with them; he could have
+<hi>cured</hi> the womans <hi>iſsue</hi> of blood as <hi>ſoon</hi> as it came,
+<note place="margin">
+                  <hi>Luke</hi> 8.43.</note> but ſhe ſhall
+<hi>ſpend all ſhe hath upon</hi> Phyſitians: Firſt, our Sa<g ref="char:EOLhyphen"/>viour could have <hi>wrought the</hi> miracle at the inſtance of his Mother,
+<note place="margin">
+                  <hi>John</hi> 2.4.</note> but his houre was not yet come. The Hebrews have a proverbe
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <note place="margin">
+                  <hi>Heinſy Aris tar<g ref="char:EOLhyphen"/>chus.</hi>
+               </note> you muſt not tell a wiſe man <hi>when</hi> he ſhould do a thing; and if a wiſe <hi>man,</hi> ſurely we may conclude the <hi>wiſe God will,</hi> and doth take the <hi>only fit</hi> time for eve<g ref="char:EOLhyphen"/>ry adminiſtration. <hi>He hath a time, a ſet time wherein he will have mercy upon his Sion,</hi> Pſal.
+102.13. When the <hi>enemies</hi> of it are moſt <hi>impudent</hi> and
+<hi>hardned,</hi> when <hi>her Children</hi> are moſt <hi>penitent</hi> and
+<hi>awakened. In the firſt of theſe,</hi> I am ſure, came <hi>our deliverance,</hi> when the <hi>ram<g ref="char:EOLhyphen"/>pant <g ref="char:V">Ʋ</g>ſurpers</hi> ſaid of all that concerned things <hi>Sacred, raſe it, raſe it, even to the foundation thereof;</hi> of all that concerned <hi>our civills, abjure it, abjure it even to all gene<g ref="char:EOLhyphen"/>rations:</hi> And O that the looſeneſſe and
+<hi>lowdneſſe,</hi> the boyſterous <hi>profaneneſſe</hi> and wild
+<hi>debaucherys,</hi> that fly a<g ref="char:EOLhyphen"/>broad like ſo many
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſhameleſſe <hi>and noon-day devills,</hi> did not hinder me from ſaying the <hi>latter</hi> too! I muſt confeſſe ſeeing <hi>ten righteous</hi> perſons ſhould have been a
+<hi>City-fitneſs</hi> to have ſaved <hi>Sodom from the fire,</hi> I have a great deal of confidence (notwith<g ref="char:EOLhyphen"/>ſtanding the too <hi>huge heaps of the</hi> riotous unreformed) <pb n="12" facs="tcp:95529:11"/>at that <hi>low rate</hi> there might be found as <hi>many zealous</hi> and conſcientious mourners in
+<hi>England,</hi> in the day of her ſore evill, that gave their God no reſt, as might amount to a <hi>national</hi> fitneſs, to deliver us <hi>out of the fire</hi> If there were not, and there <hi>wanted us</hi> to make up the number, <hi>Now</hi> we have the mercy! O <hi>now,</hi> let us la<g ref="char:EOLhyphen"/>bour to walk worthy of it; <hi>let the goodneſſe of the Lord lead us unto repentance.</hi> This is that he looketh for, that as he hath been better towards us than he was, ſo we ſhould be better towards him than we were:
+<hi>Being made whole, ſin no more.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Part.</hi> 3.</note>The third Particular of the Text, and leadeth me from the <hi>commemoration of the</hi> mercy that had been conferred, <hi>thou art made whole,</hi> to the <hi>Admonition of the duty</hi> that was to be performed, <hi>ſin no more.</hi>
+            </p>
+            <p>
+               <hi>Sin no more?</hi> That is impoſſible. <hi>Is there any that liveth and ſinneth not? Doth not the Pſalmiſt tell us
+<note place="margin">
+                     <hi>Pſal.</hi> 14.3.</note> there is none exactly righteous, no not one? Holy</hi> Job,
+<note place="margin">
+                  <hi>Job.</hi> 14.4.</note> 
+               <hi>that none can bring a clean thing out of an unclean? the Bleſſed Apo<g ref="char:EOLhyphen"/>ſtle,
+<note place="margin">1 <hi>John.</hi> 1.8.</note> if we (the beſt) ſay they have no ſin, they deceive them<g ref="char:EOLhyphen"/>ſelves? what meaneth the counſell then?</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>R.</hi>
+               </note>Not to ſpend time to no purpoſe, doubtleſſe it hath peculiar reference to <hi>that</hi> or thoſe <hi>particular ſins</hi> for which this long affliction had been on him. <hi>Cave tale aliquid committas quale ante hos xxxviii. annos;</hi> ſo
+<hi>Gro<g ref="char:EOLhyphen"/>tius;</hi>
+               <note place="margin">
+                  <hi>G<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ti.</hi> 9. <hi>in loc</hi>
+               </note> 
+               <hi>aliquod ſcelus patravit auod deus morbo tam diutino caſtigare voluit;</hi> So <hi>Lapide:</hi>
+               <note place="margin">
+                  <hi>Lap. in loc</hi>
+               </note>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, So <hi>Nonnus</hi> hath paraphraſed it;<note place="margin">
+                  <hi>Monn. in loc</hi>
+               </note> The ſumme of what they all ſay, is that the words ſeem to ſtrike at ſome
+<hi>eſpe<g ref="char:EOLhyphen"/>ciall eminent and accuſtomed ſin</hi> this man had before been guilty of; he ſhould have a care while he lived, to ſin <hi>that ſin</hi> no more. And thus much we muſt all learn from it,
+<note place="margin">
+                  <hi>Arab.</hi>
+               </note> 
+               <hi>when we are delivered to take ſpeciall heed of thoſe ſins for which we were before puniſhed; Non redire ad Peccandum;</hi> as the Arabick readeth the Text, not to re<g ref="char:EOLhyphen"/>turne
+<pb n="13" facs="tcp:95529:11"/>to do as we did before the judgment was ſent to reclaime and Tutour us. This is the <hi>Doctrine which</hi> the Pſalmiſt preacheth,
+<note place="margin">
+                  <hi>Pſal.</hi> 85.8.</note> He will ſpeak peace unto his people and to his Saints, <hi>but let them not turne again to folly.</hi> This is the <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> holy <hi>Ezra</hi> preſſeth;
+<note place="margin">
+                  <hi>Ezra</hi> 9.13.14</note> 
+               <hi>After all this is come upon us for our evill deeds and for our great treſpaſſe, ſe<g ref="char:EOLhyphen"/>ing thou our God haſt puniſhed us leſse than our iniquities deſerve, and haſt given us ſuch deliverance as this, ſhould we again break thy Commandments and joyn in affinity with the people of theſe abominations? Wouldſt thou not be angry with us till thou hadſt conſumed us, ſo that there ſhould be no remnant nor eſcaping?</hi> Have a care we muſt after mer<g ref="char:EOLhyphen"/>cies and deliverances, that we be not as <hi>looſe</hi> as ever, for fear God ſhould bring us as <hi>low</hi> as ever. Bring me thy mercies (O ſoule!) of what ſort ſoever; <hi>what ſu<g ref="char:EOLhyphen"/>perſcription have</hi> they? what is the <hi>Motto</hi> under them but this <hi>Sin no more?</hi> Tis ſhort, let us conn it by heart all of us; we have very good reaſon for it
+<hi>this day.</hi>
+               <list>
+                  <item>
+                     <hi>Ob praeteritam afflictionem.</hi>
+                  </item>
+                  <item>
+                     <hi>Ob debitam ingenuitatem.</hi>
+                  </item>
+                  <item>
+                     <hi>Ob nullam compenſationem.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Firſt, becauſe of the paſt affliction, the miſeries we have already endured, which had no other end but only this to reforme and better us; <hi>ad hoc ex<g ref="char:EOLhyphen"/>coquuntur homines tribulationibus</hi> (ſaith the Father) <hi>ut vaſa electionis evacuentur nequitiâ &amp; impleantur gratiâ,</hi>
+               <note place="margin">
+                  <hi>Auguſtinus. Sent. num.</hi> 2<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>4.</note> this is the end of all our ſufferings, the taking away of our ſins; and what ſhall we loſe the benefit, and on<g ref="char:EOLhyphen"/>ly endure the ſmart of them? How ſad will it be to be like
+<hi>Solomons</hi> drunkard? <hi>They have ſtricken me, ſhalt thou ſay, and I was not ſick; they have beaten me, and I felt it not; when ſhall I awake, I will ſeek it yet again?</hi> What? <pb n="14" facs="tcp:95529:12"/>haſt thou been impriſoned? and art not yet humbled? Sequeſtred? and art not yet Reformed? Impoveriſh<g ref="char:EOLhyphen"/>ed? and art not yet <hi>returned to thy God?</hi> It was a ſigne of the Churches ſincerity when they could ſay, <hi>All this is come upon us, yet have we not forgotten thee;</hi> it would be a ſad argument of our obſtinacy if we can<g ref="char:EOLhyphen"/>not but ſay <hi>all this is come upon us,</hi> theſe Warrs, theſe Confuſions, <hi>theſe calamities and loſſes, and yet have we forgotten thee?</hi> let us remember our paſt afflicti<g ref="char:EOLhyphen"/>ons.</p>
+            <p>Secondly, Sin no more, becauſe of the <hi>ingenuity which we owe;</hi> think how great an obligation God hath layd on us: We can do nothing for God, but he re<g ref="char:EOLhyphen"/>quiteth it: Doth the King of <hi>Niniveh</hi> keep <hi>one Faſt?</hi>
+               <note place="margin">
+                  <hi>Jonah</hi> 3..10.</note> God ſpareth the City for it. Doth the King of <hi>Baby<g ref="char:EOLhyphen"/>lon</hi> ſerve him in one expedition?
+<note place="margin">
+                  <hi>Ezek.</hi> 29..18.</note> he ſhall have ample wages for it. Doth the poore indigent give one Cup of Water to a Diſciple of his?
+<note place="margin">
+                  <hi>Mat.</hi> 10.42.</note> he ſhall not loſe his re<g ref="char:EOLhyphen"/>ward for it. Doth God pay ſo liberally for that little we do for him, and ſhall we returne nothing for the great things he doth for us? Come, give as much for the mercy now thou haſt it, as thou believeſt thy ſelf, thou ſhouldeſt have offered for it when thou wantedſt it. Come (my Brethren,) ſeriouſly bethink your ſelves, Had God ſaid to us ſome years agoe, in the height of our confuſions, by revelation told thee (give me leave to ſuppoſe it) if thou wilt never be drunk more, never take <hi>my name in vaine</hi> more, never be unchaſte more, the King ſhall come in peace, ſhall be reſtored, the Church ſhall be ſetled. It cannot enter into my ſoul that any perſon breathing that had either the Loyalty of a Subject, or the reaſon of a man, yea the tenderneſſe of a Woman, is ſo wretchedly loſt to all principles, not onely of Religion, but of hu<g ref="char:EOLhyphen"/>manity, but would willingly have entred into the <pb n="15" facs="tcp:95529:12"/>bonds of the moſt ſolemn vows to the moſt High, that he would accept the offer; O now you have them, do not deale the <hi>worſe</hi> with God, becauſe he hath
+<hi>truſted you before hand.</hi> Few of us but would make the world believe we would do much for <hi>the King and Church,</hi> ready to ſay in this caſe with St <hi>Paul,</hi>
+               <note place="margin">
+                  <hi>Acts.</hi> 21.13.</note> 
+               <hi>we are ready not only to be bound but to dye:</hi> come here is a tryall of you; as you tender both, <hi>Sin no more.</hi> I muſt confeſſe my friends, I doubt you will ſcarce (if need be) haz<g ref="char:EOLhyphen"/>zard your fortunes, venture your lives to reſcue them from, if you will not deny your ſelves, and ſacrifice your
+<hi>luſts,</hi> to keep them out of danger: if you have ſo deare an eſtimation of <hi>theſe,</hi> as I hope you have, ſhow it, O ſhow it in
+<hi>this</hi> neceſſary returne, for the reſtoring them: your ingenuity is at ſtake for it.</p>
+            <p>Thirdly, <hi>Sin no more,</hi> in regard of the <hi>wofull recom<g ref="char:EOLhyphen"/>pence</hi> you have <hi>got</hi> by it. What was the Apoſtles Que<g ref="char:EOLhyphen"/>ſtion to the <hi>Romans, chap.</hi> 6.21. ſhall be mine to you
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>;
+<note place="margin">
+                  <hi>Rom.</hi> 6.21.</note> 
+               <hi>What fruit have you had in theſe things?</hi> Thy wretched <hi>oaths,</hi> intemperate
+<hi>revellings,</hi> bluſhfull <hi>chamberings,</hi> unchriſtian
+<hi>Scandalls;</hi> What! What have they coſt theſe convulſive pale-faced Kingdomes?</p>
+            <p>Tell me, tell me, what made one King <hi>Murdered?</hi> were they not theſe? another exiled? were they not theſe? a Church <hi>ruined?</hi> were they not theſe? and is not this enough to put you out of love with them, to think how dearly you have paid for them? The Philoſopher in the itch and heat of his luſt, was frighted out of it with the price: <hi>he would not</hi> (he ſaid) <hi>give ſo many drachms for repentance:</hi> and ſhall not wee, when the market is ſo much raiſed? <hi>Hero<g ref="char:EOLhyphen"/>dotus</hi> hath a peculiar conceit from other Hiſtorians a<g ref="char:EOLhyphen"/>bout <hi>Helena,</hi>
+               <note place="margin">
+                  <hi>Herodot. Euter<g ref="char:EOLhyphen"/>pe.</hi>
+               </note> whom
+<hi>Paris</hi> raviſhed from her husband, that ſhe was not in <hi>Troy</hi> at all, but was ſtopt by <hi>Proteus</hi> in <hi>Egypt;</hi> and when
+<hi>Menelaus</hi> came to beſiege their City, they denyed with an Oath that ſhe was <pb n="16" facs="tcp:95529:13"/>there, and told him if ſhe were, they would willinly have delivered her: and this he writeth with all manner of confidence, beleiving if ſhe had been a<g ref="char:EOLhyphen"/>mong the <hi>Trojans,</hi> they would never have been ſo ridiculouſly beſotted, as for her ſake to let their friends be ſlain, their Countrey waſted, themſelves and families ruined. Indeed (my Beloved) none in after-ages that read our ſtory, and ſee what we have run through, but will conclude, in charity ſure of our <hi>Dalilah's,</hi> that we were not ſo bewitched with them, but that wee <hi>delivered</hi> them up to <hi>make peace with him</hi> that was <hi>provoked</hi> by <hi>them:</hi> how can they think we were ſo <hi>vilanouſly baſe</hi> as to part with our <hi>peace,</hi> our <hi>lawes,</hi> our <hi>friends,</hi> our
+<hi>eſtates,</hi> rather than our luſts? But ſeeing here we are too too guilty,</p>
+            <p>Let us take that counſell of the Prophet in this day of our rejoycing, Lament. 3.40.
+<note place="margin">
+                  <hi>Lament.</hi> 3.40.</note> 
+               <hi>Let us ſearch and try our wayes, and turne again unto the Lord.</hi> Enquire what it was incenſed him ſo againſt us, as to bring thoſe eare-tingling evills upon us, that wee may know them <hi>no more.</hi> This is but a juſt return for our ſinnes <hi>ſinding us</hi> out, for us to <hi>find them out;</hi> to act this <hi>lawful revenge</hi> on them, to <hi>deliver them up</hi> to
+<hi>wrath,</hi> that have <hi>delivered us up to wrath.</hi> What was it brought ſuch a <hi>general</hi> (though cauſeleſs) <hi>odium upon our Li<g ref="char:EOLhyphen"/>turgie,</hi> but our <hi>ſlight and formal uſing of it?</hi> O now 'tis reſtored to you, be more devout and zealous in it, <hi>ſinne no more.</hi> What made the <hi>Sacrament of the Lords Supper,</hi> that bread of life caſt aſide like the <hi>Gibeonites</hi> mouldy loaves, but <hi>our unworthy and unprepared re<g ref="char:EOLhyphen"/>ceiving of it?</hi> O now you may again partake of it, be more
+<hi>tender and conſcientious</hi> in it; <hi>ſinne no more.</hi> What made the <hi>holy Creed</hi> that good confeſſion, ſuffer an Oſtraciſme and be <hi>diſuſed in our Churches,</hi> but an <hi>unholy life reproaching our moſt holy faith?</hi> O now 'tis re<g ref="char:EOLhyphen"/>turned, be more <hi>awakened and reformed; ſinne no more</hi> 
+               <pb n="17" facs="tcp:95529:13" rendition="simple:additions"/>What was it cauſed God to puniſh us with an <hi>unna<g ref="char:EOLhyphen"/>tural and bloody war,</hi> but our habitual
+<hi>rebelling and fighting againſt God?</hi> O now we are in peace again, let us be more <hi>willing, and obedient, ſinne no more.</hi> What made him permit men to <hi>ſequeſter and plunder you,</hi> but your <hi>miſpending and abuſing of the eſtates,</hi> which he had given you? O now you re-enjoy them, be more <hi>ſober and charitable with</hi> them, <hi>ſinne no more;</hi> what made the <hi>Clergy</hi> (the Orthodox clergy) <hi>ejected and turned out of their places,</hi> but their two great <hi>negligence and careleſneſs in their places?</hi> O now we are reſetled and
+<hi>reintruſted,</hi> let us be more <hi>diligent and abundant in la<g ref="char:EOLhyphen"/>bours, ſinne no more.</hi> We are very apt to <hi>looke upon others,</hi> to
+<hi>ſearch and try their wayes,</hi> that did theſe things to find out their <hi>pride and cruelty,</hi> their malice and <hi>coveteouſneſs,</hi> their <hi>diſloyalty</hi> and <hi>hypocriſy,</hi> their <hi>perjury</hi> and <hi>implacableneſs,</hi> but <hi>this were better ſpared,</hi> as that which only <hi>exaſperateth</hi> and maketh us <hi>more bitter:</hi> O let us look upon <hi>our ſelves,</hi> ſearch and try <hi>our wayes</hi> that cauſe theſe things, find out our own <hi>luſt</hi> and carnality
+<hi>Oaths,</hi> and <hi>Idleneſs, Intemperance</hi> and <hi>Vanity, Impatience</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nthankfulneſs,</hi> this were <hi>time well-ſpent,</hi> as that which <hi>might amend and make us better:</hi> that diſcovering theſe <hi>Achans,</hi> we may <hi>ſtone them to death,</hi> knowing <hi>theſe Jonahs,</hi> we may <hi>caſt them into the</hi> Sea, attaching <hi>theſe</hi> malefactors, we may <hi>con<g ref="char:EOLhyphen"/>demne and execute them,</hi> being ſenſible that theſe are the ſinnes we may abhorr and abandon them. For if we ſhall yet retain them and indulge them, be aſſured (my brethren!) they have not done us ſo much miſchief already, but they will doe much more, they have not brought down ſuch heavy judgements yet, but they will bring much heavier, and ſo I am fallen upon the<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Part.</hi> 4.</note>Laſt particular of the text, from the <hi>exhortation</hi> to <hi>the duty</hi> we owe,
+<hi>ſinne no more,</hi> to the <hi>commination of the
+<pb n="18" facs="tcp:95529:14" rendition="simple:additions"/>fury,</hi> which otherwiſe we ſhall feele,
+<hi>leaſt a worſe thing come unto thee.</hi>
+            </p>
+            <p>The <hi>Talmudiſts</hi> tells us,
+<note place="margin">
+                  <hi>M<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ſius in lo<g ref="char:EOLhyphen"/>cum.</hi>
+               </note> that the
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which the <hi>Iſraelites</hi> are bid provide, when they were to take poſſeſſion of the land of promiſe, <hi>Joſh.</hi> 1.11. was not <hi>victuals</hi> as we tranſlate it, but <hi>malè actae vitae peniten<g ref="char:EOLhyphen"/>tiam &amp; adverſus deum pictatem<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ut his virtutibus ſe dig<g ref="char:EOLhyphen"/>nos praeſtent, qui in terram promiſſant faeliciter traficiant,</hi> The proviſion they are commanded to make, was not of things to <hi>eat and drinke,</hi> for that they had (ſay they) no need of, <hi>Manna</hi> ſtill falling; but it was to furniſh themſelves with <hi>ſuitable graces,</hi> that they might reſiſt the <hi>temptations of their proſperity,</hi> and walke worthy of <hi>their Milke and Honey:</hi> otherwiſe <hi>Canaan</hi> might be more intolerable than <hi>Aegypt.</hi> Such an <hi>Item</hi> hath this paralytick in the Text, to have a care how <hi>he walketh,</hi> now he is ſet again upon his <hi>legs;</hi> elſe his <hi>remedy</hi> would be more dangerous than his <hi>diſeaſe,</hi> his <hi>recovery</hi> more miſcheivous then his <hi>malady,</hi> his <hi>exaltation</hi> more mortall and formidable than his <hi>affliction, a worſe thing would come unto him.</hi>
+            </p>
+            <p>A worſe thing? one would thinke that could not well be, he had lain under the ſmart of an uncomfor<g ref="char:EOLhyphen"/>able viſitation for eight &amp; thirty years together, and now he was well, who would not think that <hi>the worſt were</hi> paſt? No, no, unleſſe he now reforme, he muſt look for more miſery than ever he had;
+<note place="margin">
+                  <hi>Chryſoſt in lo<g ref="char:EOLhyphen"/>cum.</hi>
+               </note>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſaith the Golden-mouthed father upon the Text. A relapſe into former ſins ſtill bringeth a recruit of
+<hi>ſharper judgments.</hi> The ſecond Edition of ſin is ſtill the deareſt. The latter end of repeated provocati<g ref="char:EOLhyphen"/>ons, worſe than the beginning
+<hi>Sodom,</hi> and <hi>Gomorah</hi> are vanquiſhed in the field,
+<hi>Gen.</hi> 14.10. Will not they take warning and amend by that? The next
+<pb n="19" facs="tcp:95529:14"/>time you heare they are conſumed by fire, <hi>Gen.</hi>
+19.24. The firſt-borne of his anger, is enough to deterre, that is a
+<hi>Jezreel, Hoſea</hi> 1.4. But if that be ineffectual, the next will ſurely deſtroy and undoe, that is <hi>Lo-ru<g ref="char:EOLhyphen"/>hamah, chap.</hi> 1.6. The Murrain, Boyls, Haile, Locuſts <hi>&amp;c.</hi> come upon <hi>Aegypt, Exod</hi> 9.10, <hi>&amp;c.</hi> are they hard<g ref="char:EOLhyphen"/>ned ſtill and obſtinate? Then the red ſea muſt make clean worke with them, <hi>chap</hi> 14.26.
+<q>
+                  <p>
+                     <hi>Non tot Achaemeniis armatur ſuſa ſagittis.</hi>
+                  </p>
+               </q>
+            </p>
+            <p>His armory is ſtored with, and his quiver full of all ſorts of puniſhments: his <hi>Arme is not ſhortned</hi> that it cannot reach, nor his hand weary, that it cannot ſtrike again the new-delivered ſinner, no, no, if we re<g ref="char:EOLhyphen"/>volt more, we he will be ſure to ſtrike more, If we fall of from him again, he will fall on upon us again; and that with more fearfull and firy indignation, if after he hath whipped us with ſome ſmarting rods we ſtill continue our ſtubborneſſe and obſtinacy then, he hath ſtinging Scorpions, if after he hath bruiſed our bones we are ſtupid and will take no warning, then he can break our necks, if after the evill things; we have endured we are not refined, —<hi>vires aquirit eundo; a worſe thing will come unto us;</hi> how can we expect other if we conſider
+<list>
+                  <item>God.</item>
+                  <item>The Sin.</item>
+                  <item>The Sinner.</item>
+               </list>
+               <list>
+                  <item>God who is more provoked,</item>
+                  <item> The ſin which is more aggravated,</item>
+                  <item> The ſinner who is more hardly reclaimed.</item>
+               </list>
+            </p>
+            <p>Firſt, God who is more provoked by ſuch <hi>unworthy and diſingenious</hi> requitalls. <hi>Ephraim</hi> that telleth God
+<pb n="20" facs="tcp:95529:15"/>plainly he was not a whit the better for all his ſuffer<g ref="char:EOLhyphen"/>ings <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as ſome Greek Coppies have it, <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as the
+<hi>Chalde</hi> paraphraſe, <hi>Jer</hi>-31.18. Thou haſt chaſted me, and I was <hi>not</hi> chaſtiſed, but as a bullock, unaccuſtomed to the yoake, or as our tranſlation, thou haſt chaſtiſed me, and I was cha<g ref="char:EOLhyphen"/>ſtiſed as a Bullock, <hi>&amp;c</hi> when thou correcteſt me I was as much the better as a mad bull would have been: yet he maketh this faire promiſe, <hi>turn thou me, fac ut redeam in patriam,</hi> as <hi>Grotius</hi> hath explained it,
+<note place="margin">
+                  <hi>Vide Grotium
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> locum.</hi>
+               </note> return my captivity, reſtore my liberty, <hi>&amp; tunc reſipiſcam,</hi> and then I ſhall <hi>be turned,</hi> I ſhall <hi>reform,</hi> this will melt me, and
+<hi>engage</hi> me. Now when God hath thus <hi>truſted</hi> us, upon no other ſecurity but our <hi>bare</hi> word, that we will be <hi>better,</hi> flung away his <hi>rod,</hi> upon our ſolemn engagement, we will do ſo no more; if then we ſhall apoſtatiſe and deal falſely, here the
+<hi>treachery</hi> is ſuper<g ref="char:EOLhyphen"/>added to the <hi>impiety,</hi> the disingenuity to the <hi>iniquity;</hi> and how can we expect but his anger ſhould be
+<hi>hotter,</hi> and his blows the <hi>harder?</hi> Men cannot endure to be deceived and cheated, and if we once go
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as <hi>Porphiry</hi> hath elegantly phraſed it,
+<note place="margin">
+                  <hi>Porphi<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> l.</hi> 2. <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> to think to gull the Almighty by our coggings and fawnings on him in a low condition, and when we have what we would have, neglect and diſhonour him as much as ever:
+<q>
+                  <l>
+                     <hi>Pectora tantis obſeſſa malis,</hi>
+                  </l>
+                  <l>
+                     <hi>Non ſunt ictu ferienda levi.</hi>
+                     <note place="margin">
+                        <hi>Seneca Here. furent.</hi>
+                     </note>
+                  </l>
+               </q> This muſt needs incenſe the ſweeteſt <hi>patience,</hi> when it is thus affronted: we may well look not onely for a <hi>worſe,</hi> but the <hi>worſt</hi> of things to come unto us.</p>
+            <p>Secondly, After mercy received and bleſſings con<g ref="char:EOLhyphen"/>ferred, the
+<hi>offence</hi> is <hi>heightned,</hi> the iniquity <hi>aggravated, then</hi> to <hi>ſin more</hi> is <hi>more ſin</hi> The Apoſtle 2 <hi>Tim.</hi>
+3.13. tel<g ref="char:EOLhyphen"/>leth us of men that <hi>wax worſe and worſe.</hi> Our Saviour
+<pb n="21" facs="tcp:95529:15"/>ſpeaketh of them that are <hi>twofold</hi> worſe,
+<hi>Mat</hi> 23.15. The Prophet of them that are <hi>three, foure-fold</hi> worſe, <hi>Amos</hi> 2.1. The Evangeliſt of one <hi>ſevenfold</hi> worſe, <hi>Mar.</hi> 16. v 9. God himſelf of them that were
+<hi>tenfold</hi> worſe, <hi>Numb.</hi> 14.22. But if any thing maketh a man a
+<hi>thou<g ref="char:EOLhyphen"/>ſand fold</hi> worſe, worſt of all: ſurely it is this, after his being <hi>made whole,</hi> to <hi>ſin more:</hi> To venture upon theſe provocations, for which God had before pla<g ref="char:EOLhyphen"/>gued and puniſhed him, and then out of tenderneſs ſaved and delivered him.
+<q>
+                  <l>
+                     <hi>—meritiſne haec gratia tantis.</hi>
+                  </l>
+                  <l>
+                     <hi>Redditur?</hi>
+                     <note place="margin">
+                        <hi>Ovid. l.</hi> 5.
+<hi>Met.</hi>
+                     </note>
+                  </l>
+               </q> 
+               <hi>Fooliſh people and unwiſe ſhall we thus requite the Lord?</hi> What have we not then to anſwer for? O the
+<hi>obdu<g ref="char:EOLhyphen"/>rateneſſe!</hi> O the <hi>unkindneſs!</hi> O the
+<hi>falſeneſſe!</hi> O the <hi>wantonneſſe</hi> we ſhall then be called to an account for! God threatneth his people upon this very ſcore,
+<hi>A<g ref="char:EOLhyphen"/>mos</hi> 3.2. <hi>You onely have I known of all the families of the earth: Therefore I will puniſh you for all your iniquities.</hi> It was a ſmart (though prophane) anſwer of him that being preſſed upon the account of Chriſtianity to be reconciled to a great acquaintance of his that had done him an injury, <hi>He had read in the Goſpel that he muſt forgive his enemies, but never that he muſt for<g ref="char:EOLhyphen"/>give his friends.</hi> This went near the Pſalmiſt, that <hi>they that eat of his bread ſhould lift up the heele againſt him, Pſal.</hi> 41.9. The Hiſtorian hath given us this character of the Athenians,
+<note place="margin">
+                  <hi>Thucydide. l.</hi> 1.</note>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they are more enraged at the
+<hi>unkindneſſe of a friend</hi> than the <hi>afront of an enemy.</hi> Thus is it with the higheſt the more obligations we have, the more aggravations our ſins have. It is <hi>cheaper</hi> ſinning before our
+<hi>ſickneſs</hi> than after our <hi>recovery;</hi> before our
+<hi>danger</hi> than after our <hi>deliverance;</hi> before our
+<hi>captivity</hi> than after in our pro<g ref="char:EOLhyphen"/>ſperity; <pb n="23" facs="tcp:95529:16"/>no wonder then if we will have it at ſuch a time, if we pay dearer for it, a
+<hi>worſe thing.</hi>
+            </p>
+            <p>Thirdly, So it muſt be, beccauſe of the <hi>ſinner,</hi> who is <hi>more hardly recovered.</hi> The <hi>bad things</hi> of this life,
+<hi>croſſes and afflictions</hi> are
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as <hi>Hippocra<g ref="char:EOLhyphen"/>tes</hi> reckoneth,
+<note place="margin">
+                  <hi>Hippocr.</hi>
+               </note> the <hi>knife and the launce,</hi> inſtruments for cure and Chirurgery; now if <hi>one</hi> will not <hi>doe,</hi> he taketh <hi>another,</hi> if this phyſick be too weak to purge out the diſeaſe, the next ſhall be ſtronger: See how rhetorically he expoſtulateth it. Amos 3.4. <hi>Will a Lyon roare in the forreſt to have no prey?</hi> ſhall my <hi>chidings</hi> and <hi>threats</hi> and
+<hi>thunderbolts,</hi> tearing your <hi>Ephod,</hi> and your <hi>Altar,</hi> your <hi>Vaile,</hi> and your <hi>Temple,</hi> your <hi>Throne,</hi> and your
+<hi>Gates,</hi> be ſpent to no purpoſe? <hi>Will a young Lyon give forth his voice from his den, that he may take nothing,</hi> ſhall all this Tragical Scene de<g ref="char:EOLhyphen"/>ſigned and acted by me, be but a <hi>beating of the aire,</hi> or a ſcourging of the Sea unprofitably? It ſhall goe hard, very hard, but he will have ſome fruit of it. He bringeth <hi>Terrors, Conſumptions; Burning Agues, flying before enemies, them that hate us, to raigne over us;</hi> then, we might <hi>ſay in our haſt,</hi> he hath even done <hi>his worſt here:</hi> no alas! he telleth us, if you will not <hi>for all this hearken to me, I will puniſh you ſeven times more,</hi> Levit.
+26.18. If this will not doe, he will <hi>plague ſeven times more,</hi> Verſe the 21. If that will not doe, he will puniſh yet <hi>ſeven times more.</hi> Verſe the 24. If that will not <hi>doe he will chaſtiſe yet ſeven times more,</hi> Verſe the 28. <hi>mille nocendi artes.</hi> And this being his method in dealing with us, we may be ſure that he that hath not
+<hi>his word,</hi> will not have <hi>his works to re<g ref="char:EOLhyphen"/>turn in vaine.</hi> If
+<hi>one</hi> judgement do not availe, he will ſend a <hi>ſecond,</hi> if a
+<hi>drop</hi> of anger will not ſerve, he will poure out a <hi>vial;</hi> if touching with a <hi>coale</hi> will not putrifie, he will kindle a
+<hi>furnace</hi> of affliction.</p>
+            <p>
+               <pb n="22" facs="tcp:95529:16"/>
+               <hi>To ſhut up this then,</hi>
+            </p>
+            <p>It is commonly ſtoried that when <hi>Philip</hi> had re<g ref="char:EOLhyphen"/>ceived thoſe three joyful meſſages in one day.
+<note place="margin">
+                  <hi>Plutarchi Alex<g ref="char:EOLhyphen"/>ander.</hi>
+               </note> That the
+<hi>Illyrians</hi> were overthrown by <hi>Parmenio,</hi> that his horſe wan the prize at <hi>Olympus,</hi> and that <hi>Alex<g ref="char:EOLhyphen"/>ander</hi> his ſonne was born, leaſt he ſhould be exalted above meaſure, he appointed an
+<hi>Officer</hi> ſtill to re<g ref="char:EOLhyphen"/>peate this to him, <hi>Remember thou art mortall:</hi> Indeed ſuch an office I muſt now take on me, to prevent
+<hi>ſecurity,</hi> in this day of your <hi>proſperity,</hi> ſound this in your ears, <hi>remember you are mutable.</hi> This is a day of <hi>glad glad tidings,</hi> but let me ſprinkle a little <hi>ſalt</hi> to
+<hi>ſeaſon</hi> it, leaſt it be <hi>too luſcious.</hi>
+               <note place="margin">
+                  <hi>S. Auguſtin<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>s.</hi>
+               </note> This is a Feaſt
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as the <hi>Jewes</hi> were wont to call their <hi>high</hi> ones, but let me put a <hi>deaths head</hi> upon the table to keep you <hi>ſober.</hi> St. <hi>Auguſtines</hi> obſervation of the fruit of our delive<g ref="char:EOLhyphen"/>rances is too too true, <hi>abſtulit ſecuri<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> attulit ſecuri<g ref="char:EOLhyphen"/>tatem,</hi> as ſoon as God <hi>taketh of his hand,</hi> we are ready to <hi>lift up the heele,</hi> as ſoon as <hi>out,</hi> apt to conclude we can never more fall <hi>into</hi> miſery: Not only the <hi>Babi<g ref="char:EOLhyphen"/>lonian</hi> ſaid he was aſcended above the
+<hi>heights of the clouds</hi> (where you know there are no ſtormes)
+<hi>Iſaiah</hi> 14.14. The <hi>Tyrian</hi> that he ſat in the <hi>ſeat of God</hi> (which you know can never ſhake) <hi>Ezek:</hi> 28.2. But a
+<hi>David</hi> ſo forgot himſelf in his proſperity, that <hi>he ſaid he ſhould not be moved.</hi> Pſal. 30.6. This is it my Text calleth me to rectify, <hi>ſerva praeſcriptum vel rues in proſcriptum, ſinne no more, or a worſe thing will come unto thee.</hi>
+               <note place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> It is the deſign of ſome turbulent ſpirits by
+<hi>making monſtrous and prodigious lies, their refuge,</hi> to attempt to make their (they feare) creſt fallen crew believe a <hi>worſe thing is</hi> coming to us: let me by mak<g ref="char:EOLhyphen"/>ing <hi>this word</hi> my baſis, cauſe you to believe that a <hi>worſe thing may come.</hi> As it is the Character of a guilty man to <hi>feare, when no feare is,</hi> formidable, bug bares, malitiouſly dreſſed up by a diſcontented <pb n="24" facs="tcp:95529:17"/>fancy, ſo is it of a hardned <hi>not to feare where</hi> juſt feare is,
+<hi>monſtrous</hi> and <hi>prodigious</hi> provocations, if theſe be among us and abound? O let us with a conſcienti<g ref="char:EOLhyphen"/>ous ſpeed mortify and relinquiſh them as the things (indeed the only things) which may now turne us back into a more deplorable ſad eſtate than either the <hi>houſe of Bondage</hi> or the <hi>horrid Wilderneſſe</hi> we are come out from. Our
+<hi>arme of fleſh</hi> is not ſo full, but it may yet be withered, our
+<hi>Mountaines of ſettlement</hi> is not ſo <hi>ſtrong</hi> but in may yet be ſhaken, our <hi>diſtempers of Church and ſtate</hi> not ſo
+<hi>through cured,</hi> but they may yet <hi>break</hi> out again worſe than ever. If theſe late years <hi>torrent</hi> of calamities, have not
+<hi>waſhed and clenſ<g ref="char:EOLhyphen"/>ed</hi> us from our former <hi>filthineſſe;</hi> what can we think remaineth but a fearfull expectation of an <hi>Ocean</hi> a
+<hi>deluge</hi> of more heavy ones; upon the ſinning yet more, how preſumptuous ſo ever and confident we may be, as if
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>he that delivered us</hi> telleth us a worſe thing <hi>will come unto us.</hi>
+            </p>
+            <p>And ſo I have done with the Text in its <hi>abſolute</hi> con<g ref="char:EOLhyphen"/>ſideration, as it is of generall importance and inſtru<g ref="char:EOLhyphen"/>ction; but I muſt not ſo leave it, I promiſed you their <hi>Relative</hi> diſcuſion in reference to our ſelves, and the happy occaſion we are this day met upon. This is in<g ref="char:EOLhyphen"/>deed a <hi>gawdy</hi> day, and it would not be ſo ſuitable a <hi>Pulpit-ſolemnity</hi> if we had not this <hi>ſecond courſe.</hi> Let me beg your patience to allow me a little
+<hi>exceedings</hi> in time for it, that I may by once more <hi>rubbing</hi> over the text make it ſo <hi>bring and clear,</hi> that we may ſee our own
+<hi>features dreſs and poſture in it, and then I ſhall dimiſſe you.</hi>
+            </p>
+            <q>
+               <pb n="25" facs="tcp:95529:17"/>
+               <p>
+                  <hi>Behold thou art made whole, ſin no more, leaſt a worſe thing come unto thee.</hi>
+               </p>
+            </q>
+            <p>When <hi>Luther</hi> eagerly read over the Hi<g ref="char:EOLhyphen"/>ſtory of young
+<hi>Samuel,</hi> how he was dedi<g ref="char:EOLhyphen"/>cated to God, how the Lord appeared to him,
+<hi>&amp;c. Caepit optare,</hi> (ſaith my Author)
+<note place="margin">
+                  <hi>Melchior Adam vit. Lutheri.</hi>
+               </note>
+               <hi>
+                  <g ref="char:V">Ʋ</g>t olim talem librum &amp; ipſ,</hi> &amp;c. <hi>O that ſuch a book might be made of him too.</hi> Much of ſuch a nature (I cannot but tell you) have my own thoughts been often with reading of this Scripture: ma<g ref="char:EOLhyphen"/>ny a time in the days of our <hi>Tyrants</hi> and <hi>Taskmaſters,</hi> when we lay uncomfortably groaning for ſome good <hi>Angel</hi> to come down &amp;
+<hi>ſtir theſe waters</hi> of <hi>Marah,</hi> my me<g ref="char:EOLhyphen"/>lancholly Loyalty thinking of this ſto<g ref="char:EOLhyphen"/>ry, hath been ready to ſigh out; Oh that this Text were verifyed in us too. And now bleſſed, bleſſed, bleſſed be God! our eyes have ſeen it, <hi>hujus voti deus nos ab<g ref="char:EOLhyphen"/>undè reddidit compotes,</hi> a little to alter the Hiſtorians words, upon this occaſion, at length it is come to paſſe compleatly, and now the <hi>Kingdome</hi> is
+<hi>removed</hi> into this <hi>upper forme,</hi> this is the
+<hi>leſſon</hi> God is <hi>teach<g ref="char:EOLhyphen"/>ing</hi> every one in it,
+<pb n="26" facs="tcp:95529:18"/>
+               <q>
+                  <p>
+                     <hi>Behold, thou art made whole, ſin no more, leaſt a worſe thing come unto thee.</hi>
+                  </p>
+               </q>
+            </p>
+            <p>A Text, which in reference to us, like <hi>Janus</hi> hath two faces, like <hi>Rebeccah,</hi> hath two Children, like <hi>Homer's</hi> wiſe man, looketh <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> both forward and backward: <hi>backward</hi> upon our paſt miſery, <hi>Behold, thou art made whole; for<g ref="char:EOLhyphen"/>ward</hi> upon our preſent duty, <hi>ſin no more; leaſt a worſe thing come unto thee.</hi> Of one part of it; I may ſay, as our bleſſed Saviour of another place; <hi>this day is the Scripture fulfilled in your eares, Behold, thou art made whole:</hi> of the other, <hi>ſin no more;</hi> What day it will be fulfilled, alas! I am at a loſſe in: But that we may ſee our ſelves the better, let us once more ſplit the Text aſſunder, and look ſeverally upon the two great parts of it.
+<list>
+                  <item>The Commemoration of the mercy we have received.</item>
+                  <item> The Admonition of the duty that muſt be performed.</item>
+               </list>
+            </p>
+            <p>Begin we with the firſt, the Com<g ref="char:EOLhyphen"/>memoration of the mercies we have re<g ref="char:EOLhyphen"/>ceived; <hi>Behold, thou art made whole.</hi>
+            </p>
+            <p>
+               <pb n="27" facs="tcp:95529:18"/>If the ancient ſaid of <hi>David</hi>'s Pſalms, they were enough to make <hi>mutum elo<g ref="char:EOLhyphen"/>quentem, a dumbe man ſpeak,</hi> I may of this days deliverance, it is enough to make <hi>caecum diſcernent em, a blinde man ſee.</hi> And yet (the wretchedneſſe of turbulent and peviſh ſpirits!) how many <hi>ſhut their eyes</hi> upon it? A generation we have ſo ex<g ref="char:EOLhyphen"/>ceeding <hi>ſharpe-ſighted;</hi> they could behold <hi>Liberty</hi> in a Dung-hill<g ref="char:punc">▪</g> 
+               <hi>Tyrant<g ref="char:punc">▪</g> Law</hi> in
+<hi>high Courts of Juſtice; Reformation</hi> in a <hi>ſa<g ref="char:EOLhyphen"/>crilegious confuſion;</hi> and yet (good men!) are able to diſcerne nothing in a
+<hi>Lawfull Prince,</hi> but <hi>jealouſies;</hi> in a <hi>ſetled Church,</hi> but <hi>ſuperſtition;</hi> in <hi>ancient laws;</hi> but
+<hi>perſe<g ref="char:EOLhyphen"/>cution;</hi> &amp; they that <hi>taught them thus, upon this day,</hi> when they <hi>muſt</hi> appear in publick by the <hi>uncouth choice of their Texts, ſly drift of their diſcourſes, impertinent,</hi> if not ſcan<g ref="char:EOLhyphen"/>dalous, (being carefull to ſpeak no more to the purpoſe, than they doe upon the <hi>thirtieth of January,</hi> or one of the <hi>Churches Feſtivals</hi>) too clearly manifeſt, they are unwilling the people ſhould <hi>behold</hi> any thing of mercy in the diſpen<g ref="char:EOLhyphen"/>ſation. Indeed it is no great wonder, <pb n="28" facs="tcp:95529:19"/>for ſuch as theſe licked themſelves <hi>whole</hi> when the Kingdome was <hi>broke,</hi> and they themſelves are <hi>broke,</hi> now the King<g ref="char:EOLhyphen"/>dome is made whole. But let us remem<g ref="char:EOLhyphen"/>ber what it is this day is ſet apart for, and that we may behold the dimenſions of this miraculous deliverance not to ſtay (in ſuch haſte) upon the <hi>length</hi> of it: which God grant may be as <hi>long</hi> as the Sun and Moon ſhall endure. See a little,
+<list>
+                  <item>The <hi>depth</hi> of it in its
+<hi>needfulneſſe,</hi>
+                  </item>
+                  <item>The <hi>Heighth</hi> of it in the
+<hi>Sweetneſſe,</hi>
+                  </item>
+                  <item>The <hi>Bredth</hi> of it in the
+<hi>Extenſive<g ref="char:EOLhyphen"/>neſſe</hi> of its conveyance.</item>
+               </list>
+            </p>
+            <p>Firſt, the depth of it in its <hi>needfulneſſe.</hi> We were ready to ſay of it, as <hi>Rachel</hi> of her Children, give us this or we dy. The Schoolmen diſpute boldy, whether God could have found out another way for the redemption of mankinde than the blood of his Son. I like not that que<g ref="char:EOLhyphen"/>ſtion ſo well, as to ſtart another, as unne<g ref="char:EOLhyphen"/>ceſſary and preſumptious, whether he could have found out another way for the
+<hi>ſetling of our foundations</hi> then the <hi>re<g ref="char:EOLhyphen"/>ſtoring of our Soveraign.</hi> This I am ſure <pb n="29" facs="tcp:95529:19"/>of, we men could pitch upon no other. How did thoſe <hi>Mountebancks</hi> and
+<hi>Quack<g ref="char:EOLhyphen"/>ſalvers</hi> of <hi>State</hi> that had the <hi>body Poli<g ref="char:EOLhyphen"/>tick</hi> in <hi>cure,</hi> try all concluſions, that they might not fly to this;
+<hi>preſcribing,</hi> ſometimes the <hi>ſtrong Purges</hi> of illegal
+<hi>Se<g ref="char:EOLhyphen"/>queſtrations:</hi> ſometimes the <hi>faſting Spit<g ref="char:EOLhyphen"/>tle</hi> of
+<hi>pretended Humiliations:</hi> ſometimes the <hi>letting Blood</hi> of a High <hi>Court of Ju<g ref="char:EOLhyphen"/>ſtice:</hi> conſtantly the <hi>Weapon-Salve</hi> of a
+<hi>domineering Army?</hi> and what did all a<g ref="char:EOLhyphen"/>vaile us? All could ſee at laſt and ac<g ref="char:EOLhyphen"/>knowledge the <hi>Kings Evill</hi> was the <hi>di<g ref="char:EOLhyphen"/>ſeaſe</hi> which we were <hi>ſick off,</hi> and his <hi>hand</hi> onely could <hi>work the cure,</hi> and him God gave us. Conſider,</p>
+            <p>Secondly, The height of the deliver<g ref="char:EOLhyphen"/>ance in the
+<hi>Sweetneſs</hi> &amp; ſmoothneſſe, that it came to us, <hi>Rabbi Bechai</hi> in his Para<g ref="char:EOLhyphen"/>phraſe upon <hi>Gen.</hi> 49.
+<note place="margin">
+                  <hi>R. Bechai co<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>. in Gen.</hi>
+               </note> hath nicely noted that all the letters in the Alphabet, are to be found in the bleſſing of <hi>Judah,</hi> except only I, and the ſubtle reaſon he giveth us of the omiſſion of that ſingle letter is that <gap reason="foreign" resp="#OXF" extent="1 letter">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifyeth a weapon, and this was left <pb n="30" facs="tcp:95529:20"/>out to hint to them, that all the mercies they ſhould enjoy, ſhould not proceed from their ſtrength and valour, but from divine love and favour. What his af<g ref="char:EOLhyphen"/>fected curioſity fancied our own expe<g ref="char:EOLhyphen"/>rience hath verifyed, as many bleſſings in a lump as all <hi>the letters</hi> can well <hi>expreſs</hi> have been reſtored of late, and ſetled <hi>on us,</hi> and all without <hi>Weapon, or Blood-ſhed;</hi> Sword or Speare. Thus God delighteth to act by contraries, when he would pu<g ref="char:EOLhyphen"/>niſh us, he let the <hi>Embaſſadours of Peace</hi> (Miniſters) beat our <hi>Plow-ſhares</hi> into <hi>Swords</hi> &amp; our
+<hi>Pruning-hooks</hi> into ſpears; when he would deliver us, he maketh the
+<hi>Children of Warr</hi> (Souldiers) beat their Swords into
+<hi>Plow-ſhares,</hi> and their <hi>Speares</hi> into <hi>Pruning-hooks;</hi> to carry it yet further, let us <hi>Behold.</hi>
+            </p>
+            <p>Thirdly, The breadth of it in the ex<g ref="char:EOLhyphen"/>tenſiveneſſe of the mercy. How farr did it reach? Who is not the better for it? Let none be ſo ſottiſh as to miſtake it for a particular mercy to His Majeſty onely, true it is, he hath a <hi>Benjamin</hi>'s <pb n="31" facs="tcp:95529:20"/>portion in it, this day he was <hi>made,</hi> brought forth into the World, and <hi>made whole,</hi> brought back into His Kingdomes; but this is not all, though the bleſſings was poured out immedi<g ref="char:EOLhyphen"/>ately upon Him the <hi>Head;</hi> yet it ran down plentifully on His Subjects the hems of His Garment, that all are made whole. <hi>Behold</hi> O ye <hi>Nobles</hi> you are <hi>made whole</hi> in your
+<hi>priviledges,</hi> that are <hi>retur<g ref="char:EOLhyphen"/>ned,</hi> your <hi>Honours</hi> which were <hi>deſpiſed,</hi> your <hi>Families</hi> which were <hi>endangered. Be<g ref="char:EOLhyphen"/>hold</hi> O ye <hi>Churchmen,</hi> you are <hi>made whole</hi> in your
+<hi>worſhip,</hi> that is <hi>eſtabliſhed;</hi> your
+<hi>juriſdiction</hi> that is <hi>reſtored,</hi> your <hi>Reve<g ref="char:EOLhyphen"/>nues</hi> that were <hi>Raviſhed. Behold</hi> O ye <hi>Lawyers,</hi> you <hi>are made whole,</hi> in your <hi>Laws,</hi> that are <hi>maintained,</hi> your
+<hi>Courts</hi> that are upheld, your <hi>Societies</hi> that are
+<hi>countenanced. Behold</hi> O ye <hi>Souldiers,</hi> you are <hi>made more than whole,</hi> in the <hi>eſtates</hi> you have <hi>got,</hi> the
+<hi>priviledges</hi> you have <hi>granted,</hi> the <hi>Arreares</hi> which have been <hi>paid you.</hi> In a word, all of us may <hi>be<g ref="char:EOLhyphen"/>hold</hi> our
+<hi>being made whole</hi> in our peace, which was <hi>diſturbed,</hi> our
+<hi>Liberty</hi> which <pb n="32" facs="tcp:95529:21" rendition="simple:additions"/>was <hi>violated,</hi> our
+<hi>indemnity</hi> which is <hi>gran<g ref="char:EOLhyphen"/>ted.</hi> And being thus ſenſible of our be<g ref="char:EOLhyphen"/>ing <hi>made whole,</hi> forget not the other Part of the Text, to ſin no more, leaſt a worſe thing, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <note place="margin">2. <hi>General.</hi>
+               </note>Sin no more againſt the Lord to pro<g ref="char:EOLhyphen"/>voke him to do ſuch terrible things as he hath been doing among us; of that large<g ref="char:EOLhyphen"/>ly before, here let me add one word more.</p>
+            <p>Sin no more againſt the <hi>Lords anoin<g ref="char:EOLhyphen"/>ted.</hi> When
+<hi>Robert</hi> King of <hi>Naples,</hi> deſired <hi>Giotto</hi> then famous in <hi>Italy</hi> to paint him out his Kingdome, he drew an Aſſe with a Saddle on his Back ſmelling to ano<g ref="char:EOLhyphen"/>ther new Saddle with a Crown and Scep<g ref="char:EOLhyphen"/>ter upon it; the King demanding what he meant by it, he reply'd, <hi>this is the lively protracture of your People and Subjects, who are ſtill deſiring new Lords and Go<g ref="char:EOLhyphen"/>vernours;</hi> Indeed had the Picture of <hi>England</hi> been to be drawn ſome years agoe, it would have puzled a good Ar<g ref="char:EOLhyphen"/>tiſt to have done it better, How did the new-fangled tumults cloyed with the <pb n="33" facs="tcp:95529:21"/>luſciouſneſſe of their antient conſtituti<g ref="char:EOLhyphen"/>ons; hancer after every wilde <hi>Chimaera</hi> and <hi>Eutopian</hi> forme of policy that was ſtarted to them? rather than have no <hi>new</hi> Government in the
+<hi>State;</hi> ſome would ſend to <hi>Rome</hi> for a <hi>perpetual Di<g ref="char:EOLhyphen"/>ctator,</hi> ſome to <hi>Holland</hi> for acurſt Com<g ref="char:EOLhyphen"/>mon-wealth, others (I had almoſt ſaid) to <hi>Hell</hi> for hardnamed Juntos; it would almoſt fright you to repeat to you. Rather than have no <hi>new</hi> alteration in the <hi>Church;</hi> ſome would ſend to <hi>Geneva</hi> for a
+<hi>Presby<g ref="char:EOLhyphen"/>terian Parity,</hi> ſome to <hi>New-England</hi> for an
+<hi>Independent Anarchy,</hi> ſome to <hi>Munſter</hi> for an
+<hi>Anabaptiſticall Frenzy.</hi> Yea ſo hot and eager were we upon thoſe frantick crotchers, that have them we muſt whatever we pay for them.
+<hi>Caligula</hi>-like an Army muſt be raiſed to ſpend <hi>blood</hi> and
+<hi>mony,</hi> that they may gather theſe <hi>Cockleſhells.</hi> And now (my belo<g ref="char:EOLhyphen"/>ved!) now you have eat of the fruit of thoſe unreaſonable, as well (as unchri<g ref="char:EOLhyphen"/>ſtian) projects, tell me what taſte had it? where was the goodly reformation <pb n="34" facs="tcp:95529:22"/>that they promiſed you? where was the amendment of abuſes they would rectify for you? where was the glorious days they would make for you? I cannot but think you are ſenſible, <hi>a plague and a cheat</hi> was never <hi>ſo dearly purchaſed.</hi> O now the omnipotent God hath wound us out of thoſe wofull Labyrinths we had brought our ſelves into, <hi>Sin thus no more; Sin no more</hi> by your
+<hi>unthankfull repinings, ſin no more</hi> by your <hi>tumultuary complainings; Sin no more</hi> by your <hi>Factious ſidings. Parliaments! Sin no more</hi> by <hi>Diſloyall Votes</hi> and <hi>Ordinances. Preachers! ſin no more</hi> by <hi>Seditious Doctrine</hi> and diſcour<g ref="char:EOLhyphen"/>ſes. <hi>Citizens! Sin no more</hi> by <hi>Rebellious Armes and Contributions.</hi> Grant you muſt, you were ſadly puniſhed for theſe ſins before; and be aſſured you will not come off ſo eaſily, if you ſhould returne again to them; <hi>A worſe thing will come unto you. Voſſius</hi> telleth us, that the <hi>Tapejones</hi> in the <hi>Weſt-Indies,</hi> owne two Gods, one who is the Author of all good; the other, the inflicter of all croſſes and afflictions. The good one, he ſaith, be<g ref="char:EOLhyphen"/>cauſe <pb n="35" facs="tcp:95529:22"/>ſuch is the goodneſſe of his nature, that he puniſh<g ref="char:EOLhyphen"/>eth no body, <hi>nullo proſequun<g ref="char:EOLhyphen"/>tur honore;</hi> they are wholy re<g ref="char:EOLhyphen"/>gardleſſe off, but the bad one they pray &amp; offer ſacrifices to, <hi>quia iracundus ſit &amp; cultus ſui negligentes male perdat;</hi> becauſe he is fierce and will deſtroy them, elſe I hope every miſled perſon among us, is of a bet<g ref="char:EOLhyphen"/>ter temper, and will now love, <hi>love</hi> his <hi>ſweetly engaging Sove<g ref="char:EOLhyphen"/>raign much,</hi> becauſe <hi>much is for<g ref="char:EOLhyphen"/>given</hi> him; but if any ſhould be of ſo devilliſh a diſpoſition as with the Clay to be the more hardned by theſe ſun-beams, the more embolded to new diſturbances and inſurrections, <pb n="36" facs="tcp:95529:23"/>as you could not but expect, that as you
+<hi>ſnarled</hi> at <hi>one ano<g ref="char:EOLhyphen"/>ther before,</hi> it would be worſe you would <hi>devoure one another</hi> then: So on the other hand you could not expect another <hi>Act of Indemnity</hi> to <hi>ſecure you</hi> then but
+<hi>a worſe thing would come unto you.</hi>
+            </p>
+            <p>But I forget my ſelf. This day calleth for <hi>Muſick</hi> to af<g ref="char:EOLhyphen"/>fect you, and not for <hi>Thunder</hi> to affright you. I remember what the
+<hi>Maſſorites</hi> tell us, that in foure books of Holy Scriptures,
+<hi>viz. Eccleſiaſtes, Iſaiah, Lamentations</hi> and <hi>Ma<g ref="char:EOLhyphen"/>lachy;</hi> when they are read in the Synagogues the laſt verſe ſave one is repeated after the <pb n="37" facs="tcp:95529:23" rendition="simple:additions"/>laſt, becauſe the laſt verſes them<g ref="char:EOLhyphen"/>ſelves end with threatning. The end of my text doth ſo, it en<g ref="char:EOLhyphen"/>deth with threatning of <hi>a worſe thing;</hi> but I was thinking upon this bleſſed occaſion, to follow that preſident, and cloſe with repeating the former part of my text as ſuitable to the Tri<g ref="char:EOLhyphen"/>umph of this day,
+<hi>behold thou art made whole,</hi> but all things conſidered that it may be the ſtronger motive to you, to <hi>ſin no more;</hi> I ſhall chooſe rather to ſweeten the latter, ſin no more and a <hi>better thing ſhall come un<g ref="char:EOLhyphen"/>to you.</hi> What our God hath done for us, as amazingly by great as it is, ſhall be but the <hi>earneſt</hi> of a <hi>larger bargain,</hi> the
+<pb n="38" facs="tcp:95529:24"/>
+               <hi>firſt fruits</hi> of a <hi>fuller harveſt,</hi> the
+<hi>dawning</hi> of a <hi>brighter day:</hi> this being <hi>made whole</hi> ſhall be but a Preface to our being made <hi>hap<g ref="char:EOLhyphen"/>py.</hi> O ſin <hi>no more,</hi> this will <hi>keep all whole. Sin no more,</hi> this will <hi>keep the nation whole,</hi> the na<g ref="char:EOLhyphen"/>tion that hath been an <hi>Acelda<g ref="char:EOLhyphen"/>ma</hi> a field of blood, this will make it a <hi>Canaan,</hi> a place of fruit<g ref="char:EOLhyphen"/>fullneſſe.
+<hi>Sin no more,</hi> this will keep the inhabitants <hi>whole,</hi> the inhabitants that have been <hi>Be<g ref="char:EOLhyphen"/>non<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi>'s ſons of ſorrow; this will make them <hi>Iſaacks</hi> children of joy and laughter; in a word, <hi>ſin no more,</hi> this wil keep the church <hi>whole;</hi> the Church that hath bin a <hi>Meribah</hi> a place of ſtrife and contention, this will make it a <hi>Hieruſalem,</hi> a City uniforme; <pb n="39" facs="tcp:95529:24"/>compacted and united within it ſelf. Thus we being better by ſinning no more, every day better and better things will be coming to us. Which God (who is the King of Kings, and Lord of Lords, and as a Teſtimony that he had not caſt us off for e<g ref="char:EOLhyphen"/>ver, brought again our Grati<g ref="char:EOLhyphen"/>ous Lord and King to ſit upon the Throne of His Fathers, this day,) grant every day more and more; and in an humble ſenſe of what he hath done al<g ref="char:EOLhyphen"/>ready, Let us aſcribe unto him, The Kingdome, the Power, and the Glory, now and for ever more, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
